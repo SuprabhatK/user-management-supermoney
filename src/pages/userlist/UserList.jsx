@@ -10,7 +10,7 @@ function UserList() {
     }, []);
 
     if (users.length === 0) {
-        return <p>No users found.</p>;
+        return <p className="no-users-message">No users found.</p>;
     }
 
     return (

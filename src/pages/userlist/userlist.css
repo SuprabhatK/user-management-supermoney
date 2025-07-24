@@ -19,3 +19,12 @@
     background-color: #f0f0f0;
     font-weight: bold;
 }
+
+.no-users-message {
+    text-align: center;
+    font-size: 18px;
+    color: #888;
+    margin-top: 40px;
+    font-weight: 500;
+  }
+  
